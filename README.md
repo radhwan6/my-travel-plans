@@ -1,4 +1,3 @@
-# Fantastic Project For Great Learning
+# Travel Destinations
 
-* Step 1 - Learn something awesome
-* Step 2 - Attain fame, fortune, and a unicorn
+A simple app to keep track of destinations I'd like to visit.
